@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       <section className="searchCalorie">
-        <h1>Plan your Meal Calories per day</h1>
+        <h1>Plan your Meal Calories today!!</h1>
         <input
           type="id"
           placeholder="Enter calories required"
